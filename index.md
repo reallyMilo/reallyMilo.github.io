@@ -22,8 +22,13 @@ A custom WordPress site created for the city of Cape Town to showcase the city's
 <a href="https://capetownstadium.co.za/" target="_blank" title="Cape Town Stadium"><img src="images/ct-stadium.jpg?raw=true" title="Cape Town Stadium website screenshot" alt="Cape Town Stadium"/></a>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Film Cape Town](https://film.investcapetown.com/)
+<br>
+A custom WordPress theme for the city of Cape Town for the promotion of Cape Town's film industry. I worked on creating the frontend and backend of this site.
+
+*Project completed at Hero Strategic Marketing*
+<br><br>
+<a href="https://film.investcapetown.com/" target="_blank" title="Film Cape Town"><img src="images/film-ct.jpg?raw=true" title="Film Cape Town website screenshto" alt="Film Cape Town"/></a>
 
 ---
 
