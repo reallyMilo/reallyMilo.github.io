@@ -1,11 +1,18 @@
 ## Portfolio
+<br>
+Some of the more recent projects I've worked on.
 
 ---
 
-### Category Name 1 
+### Work 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Destination Cape Town](https://destination.investcapetown.com/)
+<br>
+This project was part of a series of sites created for the city of Cape Town and is a custom WordPres theme. I was involved in creating the theme and backend functionality for this site and worked together with a colleague who created the frontend.
+
+Project completed at Hero Strategic Marketing
+<br>
+<a href="https://destination.investcapetown.com/" target="_blank"><img src="images/destination-ct.jpg?raw=true"/></a>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
