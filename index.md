@@ -13,8 +13,13 @@ This project was part of a series of sites created for the city of Cape Town and
 <a href="https://destination.investcapetown.com/" target="_blank"><img src="images/destination-ct.jpg?raw=true"/></a>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Cape Town Stadium](https://capetownstadium.co.za/)
+<br>
+A custom WordPress site created for the city of Cape Town to showcase the city's stadium. I worked on creating the frontedn and backend of this site.
+
+*Project completed at Hero Strategic Marketing*
+<br><br>
+<a href="https://capetownstadium.co.za/" target="_blank"><img src="images/dummy_thumbnail.jpg?raw=true"/></a>
 
 ---
 [Project 3 Title](http://example.com/)
