@@ -1,9 +1,8 @@
 ## Portfolio
-Some of the more recent projects I've worked on.
-
 ---
 
 ### Work 
+Some of the more recent projects I've worked on.
 
 [Destination Cape Town](https://destination.investcapetown.com/)
 <br>
