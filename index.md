@@ -19,7 +19,7 @@ A custom WordPress site created for the city of Cape Town to showcase the city's
 
 *Project completed at Hero Strategic Marketing*
 <br><br>
-<a href="https://capetownstadium.co.za/" target="_blank"><img src="images/dummy_thumbnail.jpg?raw=true"/></a>
+<a href="https://capetownstadium.co.za/" target="_blank"><img src="images/ct-stadium.jpg?raw=true"/></a>
 
 ---
 [Project 3 Title](http://example.com/)
