@@ -1,5 +1,4 @@
 ## Portfolio
-<br>
 Some of the more recent projects I've worked on.
 
 ---
@@ -10,8 +9,8 @@ Some of the more recent projects I've worked on.
 <br>
 This project was part of a series of sites created for the city of Cape Town and is a custom WordPres theme. I was involved in creating the theme and backend functionality for this site and worked together with a colleague who created the frontend.
 
-Project completed at Hero Strategic Marketing
-<br>
+*Project completed at Hero Strategic Marketing*
+<br><br>
 <a href="https://destination.investcapetown.com/" target="_blank"><img src="images/destination-ct.jpg?raw=true"/></a>
 
 ---
