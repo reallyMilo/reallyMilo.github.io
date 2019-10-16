@@ -15,7 +15,7 @@ This project was part of a series of sites created for the city of Cape Town and
 ---
 [Cape Town Stadium](https://capetownstadium.co.za/)
 <br>
-A custom WordPress site created for the city of Cape Town to showcase the city's stadium. I worked on creating the frontend and backend of this site.
+A custom WordPress site created for the city of Cape Town to showcase the city's stadium. I responsible for creating the frontend and backend functionality of this site.
 
 *Project completed at Hero Strategic Marketing*
 <br><br>
@@ -24,7 +24,7 @@ A custom WordPress site created for the city of Cape Town to showcase the city's
 ---
 [Film Cape Town](https://film.investcapetown.com/)
 <br>
-A custom WordPress theme for the city of Cape Town for the promotion of Cape Town's film industry. I worked on creating the frontend and backend of this site.
+A custom WordPress theme for the city of Cape Town with the purpose of promoting Cape Town's film industry. I worked on creating the frontend as well as the backend functionality for this site.
 
 *Project completed at Hero Strategic Marketing*
 <br><br>
@@ -36,10 +36,9 @@ A custom WordPress theme for the city of Cape Town for the promotion of Cape Tow
 
 [Hero Plugins](https://heroplugins.com/)
 <br>
-Hero Plugins is a project I've been involved with from 2016 working together with a team but have since 2018 taken on full ownership. Hero Plugins is solely focused on creating premium WordPress themes and plugins. My roles here cover all aspects of running the business including user support and development.
+Hero Plugins is a project I've been involved with since 2016, initially working together with a team however, I have taken on full ownership since 2018. Hero Plugins is solely focused on creating premium WordPress themes and plugins. My role here covers all aspects of running the business including user support and development.
 <br><br>
 <a href="https://heroplugins.com/" target="_blank" title="Hero Plugins"><img src="images/heroplugins.png?raw=true" title="Hero Plugins website screenshto" alt="Hero Plugins"/></a>
----
 
 
 
