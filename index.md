@@ -32,14 +32,14 @@ A custom WordPress theme for the city of Cape Town for the promotion of Cape Tow
 
 ---
 
-### Category Name 2
+### Personal
+<br>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+[Hero Plugins](https://heroplugins.com/)
+<br>
+Hero Plugins is a project I've been involved with from 2016 working together with a team but have since 2018 taken on full ownership. Hero Plugins is solely focused on creating premium WordPress themes and plugins. My roles here cover all aspects of running the business including user support and development.
+<br><br>
+<a href="https://heroplugins.com/" target="_blank" title="Hero Plugins"><img src="images/heroplugins.png?raw=true" title="Hero Plugins website screenshto" alt="Hero Plugins"/></a>
 ---
 
 
