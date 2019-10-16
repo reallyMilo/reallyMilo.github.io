@@ -33,7 +33,6 @@ A custom WordPress theme for the city of Cape Town for the promotion of Cape Tow
 ---
 
 ### Personal
-<br>
 
 [Hero Plugins](https://heroplugins.com/)
 <br>
